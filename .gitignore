@@ -1,3 +1,5 @@
+# .gitignore for COGS108_Repo
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
